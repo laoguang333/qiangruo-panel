@@ -1,0 +1,8 @@
+[package]
+name = "qiangruo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gpui-kit = "0.8.0"
+serde_json = "1"
